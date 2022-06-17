@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesMallows"]
+	path = BayesMallows
+	url = https://github.com/ocbe-uio/bayesmallows
+	shallow = true
+	registered = true
+[submodule "contingencytables"]
+	path = contingencytables
+	url = https://github.com/ocbe-uio/contingencytables
+	shallow = true
+	registered = true
+[submodule "DIscBIO"]
+	path = DIscBIO
+	url = https://github.com/ocbe-uio/discbio
+	shallow = true
+	registered = true
+[submodule "TruncExpFam"]
+	path = TruncExpFam
+	url = https://github.com/ocbe-uio/truncexpfam
+	shallow = true
+	registered = true
