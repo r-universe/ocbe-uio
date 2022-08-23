@@ -23,3 +23,8 @@
 	url = https://github.com/ocbe-uio/truncexpfam
 	shallow = true
 	registered = true
+[submodule "cellmigRation"]
+	path = cellmigRation
+	url = https://github.com/ocbe-uio/cellmigration
+	shallow = true
+	registered = true

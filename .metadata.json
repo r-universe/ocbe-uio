@@ -14,5 +14,8 @@
   {
     "package": "TruncExpFam",
     "oncran": true
+  },
+  {
+    "package": "cellmigRation"
   }
 ]
