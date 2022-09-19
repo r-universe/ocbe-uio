@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "DIscBIO",
+    "oncran": true
+  },
+  {
     "package": "TruncExpFam",
     "oncran": true
   },
