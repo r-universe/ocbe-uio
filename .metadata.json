@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "EnrichIntersect",
+    "oncran": true
+  },
+  {
     "package": "TruncExpFam",
     "oncran": true
   },

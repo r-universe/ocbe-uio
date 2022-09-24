@@ -18,6 +18,11 @@
 	url = https://github.com/ocbe-uio/discbio
 	shallow = true
 	registered = true
+[submodule "EnrichIntersect"]
+	path = EnrichIntersect
+	url = https://github.com/ocbe-uio/enrichintersect
+	shallow = true
+	registered = true
 [submodule "TruncExpFam"]
 	path = TruncExpFam
 	url = https://github.com/ocbe-uio/truncexpfam
