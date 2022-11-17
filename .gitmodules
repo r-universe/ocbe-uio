@@ -23,6 +23,11 @@
 	url = https://github.com/ocbe-uio/enrichintersect
 	shallow = true
 	registered = true
+[submodule "matlab2r"]
+	path = matlab2r
+	url = https://github.com/ocbe-uio/matlab2r
+	shallow = true
+	registered = true
 [submodule "TruncExpFam"]
 	path = TruncExpFam
 	url = https://github.com/ocbe-uio/truncexpfam

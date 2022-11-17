@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "matlab2r",
+    "oncran": true
+  },
+  {
     "package": "TruncExpFam",
     "oncran": true
   },
