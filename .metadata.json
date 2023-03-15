@@ -1,14 +1,6 @@
 [
   {
-    "package": "matlab2r",
-    "oncran": true
-  },
-  {
-    "package": "DIscBIO",
-    "oncran": true
-  },
-  {
-    "package": "TruncExpFam",
+    "package": "BayesMallows",
     "oncran": true
   },
   {
@@ -19,11 +11,19 @@
     "oncran": true
   },
   {
-    "package": "BayesMallows",
+    "package": "DIscBIO",
     "oncran": true
   },
   {
     "package": "EnrichIntersect",
+    "oncran": true
+  },
+  {
+    "package": "matlab2r",
+    "oncran": true
+  },
+  {
+    "package": "TruncExpFam",
     "oncran": true
   }
 ]
