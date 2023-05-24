@@ -33,6 +33,11 @@
 	url = https://github.com/ocbe-uio/matlab2r
 	shallow = true
 	registered = true
+[submodule "permChacko"]
+	path = permChacko
+	url = https://github.com/ocbe-uio/permchacko
+	shallow = true
+	registered = true
 [submodule "TruncExpFam"]
 	path = TruncExpFam
 	url = https://github.com/ocbe-uio/truncexpfam
