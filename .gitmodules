@@ -5,24 +5,24 @@
 [submodule "BayesMallows"]
 	path = BayesMallows
 	url = https://github.com/ocbe-uio/bayesmallows
-[submodule "cellmigRation"]
-	path = cellmigRation
-	url = https://github.com/ocbe-uio/cellmigration
-[submodule "contingencytables"]
-	path = contingencytables
-	url = https://github.com/ocbe-uio/contingencytables
 [submodule "DIscBIO"]
 	path = DIscBIO
 	url = https://github.com/ocbe-uio/discbio
 [submodule "EnrichIntersect"]
 	path = EnrichIntersect
 	url = https://github.com/ocbe-uio/enrichintersect
+[submodule "TruncExpFam"]
+	path = TruncExpFam
+	url = https://github.com/ocbe-uio/truncexpfam
+[submodule "cellmigRation"]
+	path = cellmigRation
+	url = https://github.com/ocbe-uio/cellmigration
+[submodule "contingencytables"]
+	path = contingencytables
+	url = https://github.com/ocbe-uio/contingencytables
 [submodule "matlab2r"]
 	path = matlab2r
 	url = https://github.com/ocbe-uio/matlab2r
 [submodule "permChacko"]
 	path = permChacko
 	url = https://github.com/ocbe-uio/permchacko
-[submodule "TruncExpFam"]
-	path = TruncExpFam
-	url = https://github.com/ocbe-uio/truncexpfam
