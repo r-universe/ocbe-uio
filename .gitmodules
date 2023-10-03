@@ -26,3 +26,6 @@
 [submodule "permChacko"]
 	path = permChacko
 	url = https://github.com/ocbe-uio/permchacko
+[submodule "psbcSpeedUp"]
+	path = psbcSpeedUp
+	url = https://github.com/ocbe-uio/psbcspeedup
