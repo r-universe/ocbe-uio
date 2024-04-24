@@ -5,6 +5,9 @@
 [submodule "BayesMallows"]
 	path = BayesMallows
 	url = https://github.com/ocbe-uio/bayesmallows
+[submodule "BayesSurvive"]
+	path = BayesSurvive
+	url = https://github.com/ocbe-uio/bayessurvive
 [submodule "DIscBIO"]
 	path = DIscBIO
 	url = https://github.com/ocbe-uio/discbio
