@@ -17,9 +17,6 @@
 [submodule "TruncExpFam"]
 	path = TruncExpFam
 	url = https://github.com/ocbe-uio/truncexpfam
-[submodule "cellmigRation"]
-	path = cellmigRation
-	url = https://github.com/ocbe-uio/cellmigration
 [submodule "contingencytables"]
 	path = contingencytables
 	url = https://github.com/ocbe-uio/contingencytables
