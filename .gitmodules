@@ -27,6 +27,9 @@
 [submodule "TruncExpFam"]
 	path = TruncExpFam
 	url = https://github.com/ocbe-uio/TruncExpFam
+[submodule "brmss"]
+	path = brmss
+	url = https://github.com/ocbe-uio/brmss
 [submodule "contingencytables"]
 	path = contingencytables
 	url = https://github.com/ocbe-uio/contingencytables
