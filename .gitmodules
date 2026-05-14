@@ -7,7 +7,7 @@
 	url = https://github.com/ocbe-uio/BayesMallows
 [submodule "BayesSUR"]
 	path = BayesSUR
-	url = https://github.com/mbant/BayesSUR
+	url = https://github.com/ocbe-uio/BayesSUR
 	subdir = BayesSUR
 [submodule "BayesSurvive"]
 	path = BayesSurvive
